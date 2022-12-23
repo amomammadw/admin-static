@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as t,c as o,a as r}from"./index.db7ddc37.js";const s={},c=r("h1",null,"Charts Here",-1),a=[c];function n(_,l){return t(),o("div",null,a)}const i=e(s,[["render",n]]);export{i as default};
